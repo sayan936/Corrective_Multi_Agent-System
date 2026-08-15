@@ -1,4 +1,4 @@
-# Self-Correcting Multi-Agent RAG Workflow
+# Self-Correcting Multi-Agent  Workflow
 
 A small demo project that runs a self-correcting multi-agent workflow to produce beginner-friendly explanations for a given topic. The system uses three agents in a loop: a writer (creates a draft), a reviewer (evaluates and requests revisions), and a reviser (improves the draft). The workflow is driven by `langgraph` and uses the Groq and Anthropic chat models via LangChain integrations.
 
